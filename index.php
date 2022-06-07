@@ -1,5 +1,0 @@
-<?php
-
-print "first code":
-
-?>
